@@ -1,0 +1,1 @@
+{'amount': 20000, 'category': 'Phonee', 'description': 'Iphone 11', 'date': '23/2/25'}
